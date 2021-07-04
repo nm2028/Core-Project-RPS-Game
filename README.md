@@ -7,3 +7,6 @@
 ## 1) Rock smashes scissors.
 ## 2) Paper covers rock.
 ## 3) Scissors cut paper.
+Nikhil Mishra
+GLA University Mathura U.P.
+Email: nikhil.mishra_cs18@gla.ac.in
